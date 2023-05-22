@@ -1,0 +1,56 @@
+root - INFO - started directory processor
+root - INFO - full filename: C:\Users\gpinkney\PycharmProjects\RapidRefactorResources\RapidRefactorResources\data_dir\Resource Package decrypted.rpk
+root - INFO - Filename: resourcePackage.xml
+root - INFO - Modified: 2023-05-22 08:59:32
+root - INFO - Normal size: 811 bytes
+root - INFO - Compressed size: 811 bytes
+root - INFO - --------------------
+root - INFO - Filename: [EU] Baseline Forecast Export - NL.wwb
+root - INFO - Modified: 2023-05-22 08:59:32
+root - INFO - Normal size: 4199 bytes
+root - INFO - Compressed size: 4199 bytes
+root - INFO - --------------------
+root - INFO - Filename: [MEA] Baseline Forecast Export - NL.alt
+root - INFO - Modified: 2023-05-22 08:59:32
+root - INFO - Normal size: 3480 bytes
+root - INFO - Compressed size: 3480 bytes
+root - INFO - --------------------
+root - INFO - Filename: [MEA] Baseline Forecast Export - NL.wwb
+root - INFO - Modified: 2023-05-22 08:59:32
+root - INFO - Normal size: 38704 bytes
+root - INFO - Compressed size: 38704 bytes
+root - INFO - --------------------
+root - INFO - started directory processor
+root - INFO - full filename: C:\Users\gpinkney\PycharmProjects\RapidRefactorResources\RapidRefactorResources\data_dir\Resource Package decrypted\resourcePackage.xml
+root - INFO - starting string replace
+root - INFO - string replace complete
+root - INFO - full filename: C:\Users\gpinkney\PycharmProjects\RapidRefactorResources\RapidRefactorResources\data_dir\Resource Package decrypted\[EU] Baseline Forecast Export - NL.wwb
+root - INFO - Filename: resource.xml
+root - INFO - Modified: 2023-05-18 08:37:48
+root - INFO - Normal size: 38578 bytes
+root - INFO - Compressed size: 4077 bytes
+root - INFO - --------------------
+root - INFO - started directory processor
+root - INFO - full filename: C:\Users\gpinkney\PycharmProjects\RapidRefactorResources\RapidRefactorResources\data_dir\Resource Package decrypted\[MEA] Baseline Forecast Export - NL\resource.xml
+root - INFO - starting string replace
+root - INFO - string replace complete
+root - INFO - full filename: C:\Users\gpinkney\PycharmProjects\RapidRefactorResources\RapidRefactorResources\data_dir\Resource Package decrypted\[MEA] Baseline Forecast Export - NL.alt
+root - INFO - Filename: resource.xml
+root - INFO - Modified: 2023-05-22 08:59:32
+root - INFO - Normal size: 3358 bytes
+root - INFO - Compressed size: 3358 bytes
+root - INFO - --------------------
+root - INFO - started directory processor
+root - INFO - full filename: C:\Users\gpinkney\PycharmProjects\RapidRefactorResources\RapidRefactorResources\data_dir\Resource Package decrypted\[MEA] Baseline Forecast Export - NL\resource.xml
+root - INFO - starting string replace
+root - INFO - string replace complete
+root - INFO - full filename: C:\Users\gpinkney\PycharmProjects\RapidRefactorResources\RapidRefactorResources\data_dir\Resource Package decrypted\[MEA] Baseline Forecast Export - NL.wwb
+root - INFO - Filename: resource.xml
+root - INFO - Modified: 2023-05-22 09:14:22
+root - INFO - Normal size: 38582 bytes
+root - INFO - Compressed size: 38582 bytes
+root - INFO - --------------------
+root - INFO - started directory processor
+root - INFO - full filename: C:\Users\gpinkney\PycharmProjects\RapidRefactorResources\RapidRefactorResources\data_dir\Resource Package decrypted\[MEA] Baseline Forecast Export - NL\resource.xml
+root - INFO - starting string replace
+root - INFO - string replace complete
